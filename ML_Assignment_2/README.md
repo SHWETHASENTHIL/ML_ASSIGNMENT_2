@@ -198,7 +198,7 @@ Then execute:
 streamlit run app.py
 ```
 
-Upload `breast_cancer_wisconsin.csv` through the application to evaluate the selected trained classification model.
+Upload `test_data.csv` through the application to evaluate the selected trained classification model.
 
 ---
 
